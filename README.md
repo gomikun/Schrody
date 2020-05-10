@@ -1,2 +1,2 @@
 # Schrody
-Jeu phaserjs basé sur le chat de Schrödinger.
+Phaserjs game based on Schrödinger's cat.
